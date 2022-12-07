@@ -16,6 +16,7 @@
 		2A3A48E8293E312600E10137 /* weatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3A48E7293E312600E10137 /* weatherTests.swift */; };
 		2A3A48F2293E312600E10137 /* weatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3A48F1293E312600E10137 /* weatherUITests.swift */; };
 		2A3A48F4293E312600E10137 /* weatherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3A48F3293E312600E10137 /* weatherUITestsLaunchTests.swift */; };
+		2A3A49012940D0BC00E10137 /* weatherinformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3A49002940D0BC00E10137 /* weatherinformation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A3A48ED293E312600E10137 /* weatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A3A48F1293E312600E10137 /* weatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherUITests.swift; sourceTree = "<group>"; };
 		2A3A48F3293E312600E10137 /* weatherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A3A49002940D0BC00E10137 /* weatherinformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherinformation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A3A48D2293E312500E10137 /* SceneDelegate.swift */,
 				2A3A48D4293E312500E10137 /* ViewController.swift */,
 				2A3A48D6293E312500E10137 /* Main.storyboard */,
+				2A3A49002940D0BC00E10137 /* weatherinformation.swift */,
 				2A3A48D9293E312500E10137 /* Assets.xcassets */,
 				2A3A48DB293E312500E10137 /* LaunchScreen.storyboard */,
 				2A3A48DE293E312500E10137 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A3A48D5293E312500E10137 /* ViewController.swift in Sources */,
+				2A3A49012940D0BC00E10137 /* weatherinformation.swift in Sources */,
 				2A3A48D1293E312500E10137 /* AppDelegate.swift in Sources */,
 				2A3A48D3293E312500E10137 /* SceneDelegate.swift in Sources */,
 			);
